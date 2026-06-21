@@ -4,8 +4,8 @@ The Independent Submissions Editor is considering draft-xyz for
 publication as an informational RFC in accordance with RFC 4846. In
 order to make a publication decision, I seek competent reviews of the
 material under consideration.  I wonder if you could take some time to
-read through this draft and answer some questions found at
-https://www.rfc-editor.org/materials/reviewer.guide.txt.
+read through this draft and answer some questions found 
+[here](https://www.rfc-editor.org/authors/ise/ise-reviewer-guidelines/).
 
 Normally, your review will be provided to the authors and may be made
 public.  However, if you like, I can anonymize the source.  Your review
